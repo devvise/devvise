@@ -2,7 +2,7 @@
 
 Currently mastering **Java** and **Python**.
 
-- **Current Focus:** Deep diving into Machine Learning workflows.
+- **Current Focus:** Machine Learning and NLP
 - **Learning:** Concurrency in Java and NLP optimization.
 
 ---
