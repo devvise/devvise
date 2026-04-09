@@ -1,11 +1,5 @@
 # Hi there, I'm devvise 👋 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvise&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ### 📖 About Me
 
 Currently mastering **Java** and **Python**.
@@ -39,16 +33,3 @@ Currently mastering **Java** and **Python**.
 #### 📹 [YOLO Privacy Blur](https://github.com/devvise/yolo-privacy-blur)
 > Computer Vision pipeline to detect and blur vehicles in traffic videos for privacy.
 `Python` • `YOLO` • `OpenCV`
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=devvise&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="devvise GitHub Stats" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/devvise">
-    <img src="https://img.shields.io/badge/Follow-devvise-blue?style=flat-square&logo=github" alt="Follow devvise" />
-  </a>
-</p>
