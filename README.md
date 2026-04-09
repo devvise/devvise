@@ -1,11 +1,11 @@
-# Hi there, I'm devvise 👋 
+# Hi there!
 
-### 📖 About Me
+### About Me
 
 Currently mastering **Java** and **Python**.
 
-- 🔭 **Current Focus:** Deep diving into Machine Learning workflows.
-- 🌱 **Learning:** Concurrency in Java and NLP optimization.
+- **Current Focus:** Deep diving into Machine Learning workflows.
+- **Learning:** Concurrency in Java and NLP optimization.
 
 ---
 
