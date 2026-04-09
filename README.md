@@ -21,14 +21,14 @@ Currently mastering **Java** and **Python**.
 
 ### Selected Public Projects
 
-#### [Roboarm Project](https://github.com/devvise/roboarm-project)
+#### - [Roboarm Project](https://github.com/devvise/roboarm-project)
 > School project (2022) focused on hardware-software integration.
 `Python` • `C++` • `Robotics`
 
-#### [NLP Classifier](https://github.com/devvise/nlp-classifier-project)
+#### - [NLP Classifier](https://github.com/devvise/nlp-classifier-project)
 > Developed for the UNICA masterpiece (2024). Advanced text classification logic.
 `Jupyter Notebook` • `Scikit-learn` • `NLP`
 
-#### [YOLO Privacy Blur](https://github.com/devvise/yolo-privacy-blur)
+#### - [YOLO Privacy Blur](https://github.com/devvise/yolo-privacy-blur)
 > Computer Vision pipeline to detect and blur vehicles in traffic videos for privacy.
 `Python` • `YOLO` • `OpenCV`
