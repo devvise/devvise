@@ -1,6 +1,4 @@
-# Hi there!
-
-### About Me
+# About Me
 
 Currently mastering **Java** and **Python**.
 
