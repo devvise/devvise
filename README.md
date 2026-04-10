@@ -31,6 +31,6 @@ Currently mastering **Java** and **Python**.
 > Computer Vision pipeline to detect and blur vehicles in traffic videos for privacy.
 `Python` • `YOLO` • `OpenCV`
 
-### - [Media Converter and Finder](https://github.com/devvise/media_conv_find)
+#### - [Media Converter and Finder](https://github.com/devvise/media_conv_find)
 > Applications that convert or find multimedia files (pdf, jpg, png...)
 `Python` • `CustomTkinter`
