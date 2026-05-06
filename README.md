@@ -23,6 +23,10 @@ Currently mastering **Java** and **Python**.
 > School project (2022) focused on hardware-software integration.
 `Python` • `C++` • `Robotics`
 
+#### - [DrugDose](https://github.com/Toschi-Elia/DrugDose.git)
+> University project (2026): Android app, drug dosage calculator.
+`Kotlin` • `Android Studio` • `XML`
+
 #### - [NLP Classifier](https://github.com/devvise/nlp-classifier-project)
 > Developed for the UNICA masterpiece (2024). Advanced text classification logic.
 `Jupyter Notebook` • `Scikit-learn` • `NLP`
