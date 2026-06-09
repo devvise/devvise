@@ -29,7 +29,7 @@ Currently mastering **Java** and **Python**.
 
 #### - [Wesad Stress Detection](https://github.com/mviselli/wesad-stress-detection)
 > University project (2026): Stress detection
-`Python` • `Jupyter Notebook` • `sklearn`
+`Python` • `Jupyter Notebook` • `Scikit-learn`
 
 #### - [NLP Classifier](https://github.com/devvise/nlp-classifier-project)
 > Developed for the UNICA masterpiece (2024). Advanced text classification logic.
