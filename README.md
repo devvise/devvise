@@ -19,9 +19,9 @@ Currently mastering **Java** and **Python**.
 
 ### Selected Public Projects
 
-#### - [Roboarm Project](https://github.com/devvise/roboarm-project)
-> School project (2022): Focused on hardware-software integration.
-`Python` • `C++` • `Robotics`
+#### - [The Knife](https://github.com/sonoFrangu/theknife)
+> University project (2026): TheKnife - Interdisciplinary Laboratory Project B.
+`Java` • `JavaFX` • `CSS`
 
 #### - [DrugDose](https://github.com/Toschi-Elia/DrugDose)
 > University project (2026): Android app, drug dosage calculator.
@@ -35,6 +35,6 @@ Currently mastering **Java** and **Python**.
 > Developed for the UNICA masterpiece (2024). Advanced text classification logic.
 `Jupyter Notebook` • `Scikit-learn` • `NLP`
 
-#### - [The Knife](https://github.com/sonoFrangu/theknife)
-> University project (2026): TheKnife - Interdisciplinary Laboratory Project B.
-`Java` • `JavaFX` • `CSS`
+#### - [Roboarm Project](https://github.com/devvise/roboarm-project)
+> School project (2022): Focused on hardware-software integration.
+`Python` • `C++` • `Robotics`
