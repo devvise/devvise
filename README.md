@@ -35,10 +35,6 @@ Currently mastering **Java** and **Python**.
 > Developed for the UNICA masterpiece (2024). Advanced text classification logic.
 `Jupyter Notebook` • `Scikit-learn` • `NLP`
 
-#### - [YOLO Privacy Blur](https://github.com/devvise/yolo-privacy-blur)
-> Computer Vision pipeline to detect and blur vehicles in traffic videos for privacy.
-`Python` • `YOLO` • `OpenCV`
-
-#### - [Media Converter and Finder](https://github.com/devvise/media_conv_find)
-> Applications that convert or find multimedia files (pdf, jpg, png...)
-`Python` • `CustomTkinter`
+#### - [The Knife](https://github.com/sonoFrangu/theknife)
+> TheKnife - Interdisciplinary Laboratory Project B.
+`Java` • `JavaFX` • `CSS`
