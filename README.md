@@ -20,7 +20,7 @@ Currently mastering **Java** and **Python**.
 ### Selected Public Projects
 
 #### - [Roboarm Project](https://github.com/devvise/roboarm-project)
-> School project (2022) focused on hardware-software integration.
+> School project (2022): Focused on hardware-software integration.
 `Python` • `C++` • `Robotics`
 
 #### - [DrugDose](https://github.com/Toschi-Elia/DrugDose)
@@ -36,5 +36,5 @@ Currently mastering **Java** and **Python**.
 `Jupyter Notebook` • `Scikit-learn` • `NLP`
 
 #### - [The Knife](https://github.com/sonoFrangu/theknife)
-> TheKnife - Interdisciplinary Laboratory Project B.
+> University project (2026): TheKnife - Interdisciplinary Laboratory Project B.
 `Java` • `JavaFX` • `CSS`
